@@ -1,0 +1,14 @@
+*.iml
+*.sublime-*
+*.swp
+.classpath
+.idea/
+.project
+.settings
+.DS_Store
+/bin
+azkaban-hadoopsecuritymanager-*.jar
+azkaban-jobtype-*.jar
+azkaban-pigvisualizer-*.jar
+dist/
+out/
